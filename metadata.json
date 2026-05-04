@@ -1,0 +1,6 @@
+{
+  "name": "Aura News",
+  "description": "A clean, modern RSS reader with customizable feeds, keyword filtering, and a responsive three-column layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
